@@ -1,8 +1,8 @@
 
 # 딥러닝 프로젝트 [****Chest X-Ray Images (Pneumonia) Project**** ] 
+흉부 방사선 검사 영상을 학습한 데이터 기반으로 입력 영상에서 특징 추출하여 폐렴을 추출한다
 <br>
-#### 노션주소 : 
-https://www.notion.so/2122b37bb500476d8d92abf9150b4bc8 🎈🎈
+#### 노션주소 : https://www.notion.so/2122b37bb500476d8d92abf9150b4bc8 🎈🎈
 
 [참고 자료 링크]
 | Name	|  링크주소 | Tags |
@@ -17,9 +17,6 @@ https://www.notion.so/2122b37bb500476d8d92abf9150b4bc8 🎈🎈
 
 # ****Chest X-Ray Images (Pneumonia)****
 
-[Model + Parameter ]# Chest X-Ray Images (Pneumonia) Project
-
-흉부 방사선 검사 영상을 학습한 데이터 기반으로 입력 영상에서 특징 추출하여 폐렴을 추출한다
 
 ## 1. 목표
 
