@@ -1,8 +1,9 @@
 
 # 딥러닝 프로젝트
 
-[****Chest X-Ray Images (Pneumonia) Project**** ]
-https://www.notion.so/2122b37bb500476d8d92abf9150b4bc8
+[****Chest X-Ray Images (Pneumonia) Project**** ] <br>
+#### 노션주소 : 
+https://www.notion.so/2122b37bb500476d8d92abf9150b4bc8 🎈🎈
 
 [참고 자료 링크]
 | Name	|  링크주소 | Tags |
